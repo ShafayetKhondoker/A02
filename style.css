@@ -1,0 +1,22 @@
+*{
+font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+   
+}
+
+  .meet-the-host,.featured {
+    padding: 40px 20px;
+  }
+
+  @media (min-width: 768px) {
+    .meet-the-host,.featured {
+      padding: 60px 50px;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .meet-the-host,.featured {
+      padding: 90px 100px;
+    }
+  }
+
